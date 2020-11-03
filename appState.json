@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "krdsresourcedemopy.py",
         "cursor": {
-          "lineNumber": 7,
-          "column": 32
+          "lineNumber": 16,
+          "column": 9
         },
         "config": {
           "runtime": "python3.8",
@@ -23,7 +23,7 @@
           "name": "krdsresourcedemopy"
         },
         "triggers": [],
-        "lastUpdated": 1604389084314,
+        "lastUpdated": 1604389600778,
         "testCases": {
           "582f625c-f82a-4756-b4f4-485a215b52ec": {
             "id": "582f625c-f82a-4756-b4f4-485a215b52ec",
@@ -54,7 +54,7 @@
     "customTemplate": {
       "syntax": "JSON",
       "overrideDefault": false,
-      "dialect": null,
+      "dialect": "CloudFormation",
       "definitions": null
     },
     "envVariables": [
@@ -88,7 +88,7 @@
     "platform": "AWS",
     "language": "python",
     "platformRegions": {},
-    "lastSave": 1604389264576
+    "lastSave": 1604389691038
   },
   "VCS_STATE": {
     "provider": "GitHub",

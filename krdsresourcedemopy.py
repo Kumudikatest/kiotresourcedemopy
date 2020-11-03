@@ -13,6 +13,7 @@ def handler(event, context):
             ]
         )
         print(data)
+        
     except BaseException as e:
         print(e)
         raise(e)
